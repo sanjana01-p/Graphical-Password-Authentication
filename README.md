@@ -27,5 +27,6 @@
 
 ### Demo Video
 <video width="320" height="240" controls>
-  <source src="https://github.com/sanjana01-p/Graphical-Password-Authentication/blob/main/demo_video.mp4" type="video/mp4"/>
+  <source src="https://raw.githubusercontent.com/sanjana01-p/Graphical-Password-Authentication/main/demo_video.mp4" type="video/mp4">
 </video>
+
